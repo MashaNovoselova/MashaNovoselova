@@ -23,7 +23,7 @@ header #headline, header #circular-bg {
 }
 body {
 
-  background-image: url "https://fonoteka.top/uploads/posts/2022-01/1643640318_81-phonoteka-org-p-temnii-matovii-fon-87.jpg";
+  background-image: url "https://catherineasquithgallery.com/uploads/posts/2021-02/1614260775_21-p-fon-chernogo-ottenka-26.jpg";
 
   font-family: "Roboto", sans-serif;
 
@@ -103,7 +103,7 @@ header #brand:before {
 
   height: 60px;
 
-  background-image: url("https://fonoteka.top/uploads/posts/2022-01/1643640318_81-phonoteka-org-p-temnii-matovii-fon-87.jpg");
+  background-image: url("https://catherineasquithgallery.com/uploads/posts/2021-02/1614260775_21-p-fon-chernogo-ottenka-26.jpg");
 
   bottom: -10px;
 
@@ -480,4 +480,12 @@ input:checked + .slider:before {
 
   flex-wrap: wrap;
 
+}
+.resize {
+  margin-top: -150px;
+
+ margin-left: -110px;
+
+ width: 20%;
+ 
 }
