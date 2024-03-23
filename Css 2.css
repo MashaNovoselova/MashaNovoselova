@@ -23,7 +23,7 @@ header #headline, header #circular-bg {
 }
 body {
 
-  background-image: url "https://fonoteka.top/uploads/posts/2022-09/1663022787_4-phonoteka-org-p-tekstura-bumagi-chernoi-pinterest-4.jpg";
+  background-image: url "https://uprostim.com/wp-content/uploads/2021/04/image061-43-scaled.jpg";
 
   font-family: "Roboto", sans-serif;
 
@@ -103,7 +103,7 @@ header #brand:before {
 
   height: 60px;
 
-  background-image: url("https://fonoteka.top/uploads/posts/2022-09/1663022787_4-phonoteka-org-p-tekstura-bumagi-chernoi-pinterest-4.jpg");
+  background-image: url("https://uprostim.com/wp-content/uploads/2021/04/image061-43-scaled.jpg");
 
   bottom: -10px;
 
@@ -469,8 +469,6 @@ input:checked + .slider:before {
   border-radius: 50%;
 
 }
-
-23) Контейнер упаковки прайс-блоков:
 
 .package-container {
 
